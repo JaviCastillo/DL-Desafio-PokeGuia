@@ -76,7 +76,6 @@ export default {
         }
     },
     created() {
-        this.pokenombre = 'pikachu'
         this.obtenerDatos('pikachu');
     },
 }
