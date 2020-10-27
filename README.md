@@ -1,5 +1,7 @@
 # dl-desafio-pokeguia
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
 ## Project setup
 ```
 npm install
